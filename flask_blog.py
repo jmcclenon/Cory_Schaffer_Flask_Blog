@@ -6,13 +6,25 @@ posts = [
         'author': 'Corey Schafer',
         'title': 'Blog Post 1',
         'content': 'First post content',
-        'date_posted': 'April 20, 2018'
+        'date_posted': 'April 20, 2022'
     },
     {
         'author': 'Jane Doe',
         'title': 'Blog Post 2',
         'content': 'Second post content',
-        'date_posted': 'April 21, 2018'
+        'date_posted': 'April 21, 2022'
+    },
+    {
+        'author': 'Robert Doe',
+        'title': 'Blog Post 3',
+        'content': 'Third post content',
+        'date_posted': 'June 21, 2022'
+    },
+    {
+        'author': 'Jane Williams',
+        'title': 'Blog Post 4',
+        'content': 'Forth post content',
+        'date_posted': 'April 21, 2022'
     }
 ]
 
